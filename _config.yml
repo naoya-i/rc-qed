@@ -1,4 +1,9 @@
 theme: minima
 
-title: RC-QED: Reading Comprehension Task that Requires Proof (Q.E.D.)
+site.header_pages:
+  - overview.md
+  - dataset.md
+  - paper.md
+
+title: 'RC-QED: Reading Comprehension Task that Requires Proof (QED)'
 author: Naoya Inoue
