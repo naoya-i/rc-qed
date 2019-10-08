@@ -1,6 +1,6 @@
 theme: minima
 
-site.header_pages:
+header_pages:
   - overview.md
   - dataset.md
   - paper.md
