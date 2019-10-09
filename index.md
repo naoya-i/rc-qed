@@ -2,6 +2,7 @@
 layout: home
 ---
 
-**RECOMPLAIN** is a **re**ading **com**prehension dataset that requires a system not only to output an answer, but also to ex**plain** a derivation process of the answer.
+**RC-QED** is a **r**eading **c**omprehension dataset that requires a system not only to output an answer, but also to explain a derivation process of the answer.
+We named it after the Latin "quod erat demonstrandum (**QED**)" indicating the completion of a mathematical proof.
 
-![RECOMPLAIN overview](imgs/task_io.png)
+![RC-QED overview](imgs/task_io.png)
