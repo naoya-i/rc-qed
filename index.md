@@ -2,7 +2,7 @@
 layout: home
 ---
 
-**RC-QED** is a **R**eading **C**omprehension task that requires a system not only to output an answer, but also to explain a derivation process of the answer.
+**RC-QED** is a **R**eading **C**omprehension task that requires a system not only to output an answer, but also to explain a proof process of the answer.
 We named it after the Latin "quod erat demonstrandum (**QED**)" indicating the completion of a mathematical proof.
 Given a question and supporting documents, your task is to identify the following:
 
@@ -10,6 +10,6 @@ Given a question and supporting documents, your task is to identify the followin
 - **Derivations** (sequence of entity relations): an explanation as to why the answer can be derived from the documents
 - **Answer** (entity): an answer to the question
 
-For example, see the following picture:
+See the following picture for an example problem:
 
 ![RC-QED overview](imgs/task_io.png)
